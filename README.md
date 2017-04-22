@@ -1,2 +1,2 @@
 # Dijkstra
-Dijkstra算法
+中兴Dijkstra算法
